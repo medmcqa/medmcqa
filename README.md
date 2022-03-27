@@ -42,9 +42,12 @@ The structure of each cav file :
 
 ## Model Submission and Test Set Evaluation
 
-For new submission, Please fork and edit https://github.com/medmcqa/medmcqa.github.io with your results & send the code, model to 
-below emails with description to run the code.
-You must submit your code and provide a Docker environment. Your code will run on the test set.
+For new submissions, Use any one of the below methods. 
+
+- Create a working colab notebook with your model (only model evaluation step), where colab notebook will take input as dev-set, return predictions and score [example], send the notebook URL and description of paper to below email addresses. 
+- Please fork and edit https://github.com/medmcqa/medmcqa.github.io with your results & send the code, model to 
+the below emails with full description to run the code. Your code will run on the test set. In this case, you must submit your code and provide a Docker environment.
+
 
 aadityaura [at] gmail.com,
 logesh.umapathi [at] saama.com
