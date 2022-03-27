@@ -21,6 +21,7 @@ To install pytorch , follow the instructions at https://pytorch.org/get-started/
 ## Data Download and Preprocessing
 
 download the data from below link
+
 data : https://drive.google.com/file/d/1-5Zl3QKNC5OuZpF8RzciJJKFq3Ug2wnT/view?usp=sharing
 
 ## Data Format
