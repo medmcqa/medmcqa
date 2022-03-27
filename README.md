@@ -43,7 +43,7 @@ The structure of each cav file :
 ## Model Submission and Test Set Evaluation
 
 For new submission, Please fork and edit https://github.com/medmcqa/medmcqa.github.io with your results & send the code, model to 
-below emails.
+below emails with description to run the code.
 You must submit your code and provide a Docker environment. Your code will run on the test set.
 
 aadityaura [at] gmail.com,
