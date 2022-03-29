@@ -1,10 +1,10 @@
 <h1 align="center">MedMCQA </h1>
 
-<h3 align="center">MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering</h3>
-
 <p align="center">
   <img width="250" src="./Extra/medmcqa.png">
 </p>
+
+<h3 align="center">MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering</h3>
 
 A large-scale, Multiple-Choice Question Answering (MCQA) dataset designed to address realworld medical entrance exam questions. 
 
