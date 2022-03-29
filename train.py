@@ -13,7 +13,7 @@ from multiprocessing import Process
 import time,argparse
 
 
-EXPERIMENT_DATASET_FOLDER = "/home/all_csvs"
+EXPERIMENT_DATASET_FOLDER = "/content/medmcqa_data/"
 WB_PROJECT = "MEDMCQA"
 
 def train(gpu,
@@ -58,7 +58,6 @@ def train(gpu,
 
     trainer = Trainer(gpus=gpu,
                     distributed_backend='ddp' if not isinstance(gpu,list) else None,
-                    precision=16,
                     logger=[wb,csv_log],
                     callbacks= [es_callback,cp_callback],
                     max_epochs=args.num_epochs)
@@ -112,7 +111,7 @@ if __name__ == "__main__":
     models = ["allenai/scibert_scivocab_uncased","bert-base-uncased"]
     parser = argparse.ArgumentParser()
     parser.add_argument("--model",default="bert-base-uncased",help="name of the model")
-    parser.add_argument("--dataset_folder_name", default="all_csv",help="dataset folder")
+    parser.add_argument("--dataset_folder_name", default="/content/medmcqa_data/",help="dataset folder")
     parser.add_argument("--use_context",default=False,action='store_true',help="mention this flag to use_context")
     cmd_args = parser.parse_args()
 

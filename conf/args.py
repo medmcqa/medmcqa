@@ -17,5 +17,5 @@ class Arguments:
     num_epochs:int = 5
     num_choices:int = 4
     device:str='cuda'
-    gpu=2
+    gpu='0'
     use_context:bool=True
