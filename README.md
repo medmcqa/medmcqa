@@ -41,6 +41,22 @@ The structure of each cav file :
 - `topic_name`   : Medical Subject's topic name of the particular question
 
 
+## Experiments code
+
+To run the experiments mentioned in the paper, follow the below steps
+- Clone the repo
+- Install the dependencies 
+
+`pip3 install -r requirements.txt`
+
+- Download the data from google drive link
+- Unzip the data
+- Change the data path in `train.py` at [line 114](https://github.com/medmcqa/medmcqa/blob/9a7c62931f95853c21acecdfe8a495cd1a1398f6/train.py#L114)
+- run 
+
+` python3 train.py`
+
+
 ## Model Submission and Test Set Evaluation
 
 To preserve the integrity of test results, we do not release the test set's ground-truth to the public. Instead, we require you to
