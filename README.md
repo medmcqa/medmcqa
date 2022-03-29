@@ -14,7 +14,7 @@ The MedMCQA task can be formulated as X = {Q, O} where Q represents the question
 
 ## Leaderboard
 
-[medmcqa.github.io](medmcqa.github.io)
+[medmcqa.github.io](https://medmcqa.github.io/)
 
 ## Requirements
 
