@@ -22,7 +22,7 @@ To install pytorch , follow the instructions at https://pytorch.org/get-started/
 
 download the data from below link
 
-data : https://drive.google.com/file/d/1-5Zl3QKNC5OuZpF8RzciJJKFq3Ug2wnT/view?usp=sharing
+data : https://drive.google.com/file/d/1MtcH29lUnaPehvUi2tZ9KEdgZy-NgOH2/view?usp=sharing
 
 ## Data Format
 
