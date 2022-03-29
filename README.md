@@ -14,8 +14,7 @@ The MedMCQA task can be formulated as X = {Q, O} where Q represents the question
 
 ## Requirements
 
-Python 3, pytorch
-To install pytorch , follow the instructions at https://pytorch.org/get-started/
+`pip3 install -r requirements.txt`
 
 
 ## Data Download and Preprocessing
