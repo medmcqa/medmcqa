@@ -44,7 +44,9 @@ The structure of each cav file :
 ## Model Submission and Test Set Evaluation
 
 To preserve the integrity of test results, we do not release the test set's ground-truth to the public. Instead, we require you to
-use the test-set to evaluate the model and send the predictions along with unique question id in csv format
+use the test-set to evaluate the model and send the predictions along with unique question id `id` in csv format
+
+Example
 
 | id    | Prediction (correct option)  | 
 | :-------------: |:-------------:|
