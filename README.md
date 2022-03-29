@@ -51,10 +51,8 @@ To run the experiments mentioned in the paper, follow the below steps
 
 - Download the data from google drive link
 - Unzip the data
-- Change the data path in `train.py` at [line 114](https://github.com/medmcqa/medmcqa/blob/9a7c62931f95853c21acecdfe8a495cd1a1398f6/train.py#L114)
-- run 
-
-` python3 train.py`
+- run below command with the data path
+` python3 train.py --model bert-base-uncased --dataset_folder_name "/content/medmcqa_data/" `
 
 
 ## Model Submission and Test Set Evaluation
