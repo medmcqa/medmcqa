@@ -65,7 +65,7 @@ Example :
 
 | id    | Prediction (correct option)  | 
 | :-------------: |:-------------:|
-| 1ert8213 |  0  | 
+| 1ert8213 |  2  | 
 | 232ee124 |  3  | 
 
 aadityaura [at] gmail.com,
