@@ -12,6 +12,10 @@ The MedMCQA task can be formulated as X = {Q, O} where Q represents the question
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
+## Leaderboard
+
+[medmcqa.github.io](medmcqa.github.io)
+
 ## Requirements
 
 `pip3 install -r requirements.txt`
@@ -58,7 +62,7 @@ To run the experiments mentioned in the paper, follow the below steps
 ## Model Submission and Test Set Evaluation
 
 To preserve the integrity of test results, we do not release the test set's ground-truth to the public. Instead, we require you to
-use the test-set to evaluate the model and send the predictions along with unique question id `id` in csv format
+use the test-set to evaluate the model and send the predictions along with unique question id `id` in csv format to below email addresses
 
 Example :
 
