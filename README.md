@@ -128,7 +128,9 @@ The questions and answers are available in English.
 
 The goal of MedMCQA is to emulate the rigor of real word medical exams. To enable that, a predefined split of the dataset is provided. The split is by exams instead of the given questions. This also ensures the reusability and generalization ability of the models. 
 
-The training set of MedMCQA consists of all the collected mock & online test series, whereas the test set consists of all AIIMS PG exam MCQs (years 1991-present). The development set consists of NEET PG exam MCQs (years 2001-present) to approximate real exam evaluation.
+- The training set of MedMCQA consists of all the collected mock & online test series. 
+- The test set consists of all AIIMS PG exam MCQs (years 1991-present). 
+- The development set consists of NEET PG exam MCQs (years 2001-present) to approximate real exam evaluation.
 
 Similar questions from train , test and dev set were removed based on similarity. The final split sizes are as follow:
 
