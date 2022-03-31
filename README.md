@@ -10,6 +10,18 @@ A large-scale, Multiple-Choice Question Answering (MCQA) dataset designed to add
 
 The MedMCQA task can be formulated as X = {Q, O} where Q represents the questions in the text, O represents the candidate options, multiple candidate answers are given for each question O = {O1, O2, ..., On}. The goal is to select the single or multiple answers from the option set.
 
+If you would like to use the data or code, please cite the paper:
+
+```
+@misc{pal2022medmcqa,
+    title={MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering},
+    author={Ankit Pal and Logesh Kumar Umapathi and Malaikannan Sankarasubbu},
+    year={2022},
+    eprint={2203.14371},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
 
 [![GitHub license](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub commit](https://img.shields.io/github/last-commit/medmcqa/medmcqa)](https://github.com/medmcqa/medmcqa/commits/main)
