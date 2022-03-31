@@ -18,11 +18,13 @@ The MedMCQA task can be formulated as X = {Q, O} where Q represents the question
 
 ## Dataset Description
 
-- **Homepage:** https://medmcqa.github.io
-- **Repository:** https://github.com/medmcqa/medmcqa
-- **Paper:** https://arxiv.org/abs/2203.14371
-- **Leaderboard:** https://paperswithcode.com/dataset/medmcqa
-- **Point of Contact:** [Aaditya Ura](mailto:aadityaura@gmail.com)
+|     | Links  | 
+| :-------------: |:-------------:|
+| **Homepage:** |  https://medmcqa.github.io  | 
+| **Repository:** |  https://github.com/medmcqa/medmcqa  | 
+| **Paper:** |  https://arxiv.org/abs/2203.14371  | 
+| **Leaderboard:** |  https://paperswithcode.com/dataset/medmcqa  |
+| **Point of Contact:** |  [Aaditya Ura](mailto:aadityaura@gmail.com), [Logesh](mailto:logesh.umapathi@saama.com)  |
 
 ### Dataset Summary
 
