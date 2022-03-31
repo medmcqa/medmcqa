@@ -26,7 +26,7 @@ The MedMCQA task can be formulated as X = {Q, O} where Q represents the question
 | **Leaderboard:** |  https://paperswithcode.com/dataset/medmcqa  |
 | **Point of Contact:** |  [Aaditya Ura](mailto:aadityaura@gmail.com), [Logesh](mailto:logesh.umapathi@saama.com)  |
 
-### Dataset Summary
+## Dataset Summary
 
 MedMCQA is a large-scale, Multiple-Choice Question Answering (MCQA) dataset designed to address real-world medical entrance exam questions.
 
@@ -83,17 +83,17 @@ To run the experiments mentioned in the paper, follow the below steps
 
 ` python3 train.py --model bert-base-uncased --dataset_folder_name "/content/medmcqa_data/" `
 
-### Supported Tasks and Leaderboards
+## Supported Tasks and Leaderboards
 
 multiple-choice-QA, open-domain-QA: The dataset can be used to train a model for multi-choice questions answering, open domain questions answering. Questions in these exams are challenging and generally require deeper domain and language understanding as it tests the 10+ reasoning abilities across a wide range of medical subjects & topics.
 
-### Languages
+## Languages
 
 The questions and answers are available in English.
 
 ## Dataset Structure
 
-### Data Instances
+## Data Instances
 
 ```
 {
@@ -110,7 +110,7 @@ The questions and answers are available in English.
     "choice_type":"single"
 }
 ```
-### Data Fields
+## Data Fields
 
 - `id` : a string question identifier for each example
 - `question` : question text (a string)
@@ -124,7 +124,7 @@ The questions and answers are available in English.
 - `subject_name` : Medical Subject name of the particular question
 - `topic_name` : Medical topic name from the particular subject
 
-### Data Splits
+## Data Splits
 
 The goal of MedMCQA is to emulate the rigor of real word medical exams. To enable that, a predefined split of the dataset is provided. The split is by exams instead of the given questions. This also ensures the reusability and generalization ability of the models. 
 
