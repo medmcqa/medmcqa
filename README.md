@@ -93,7 +93,7 @@ The questions and answers are available in English.
 
 ## Dataset Structure
 
-## Data Instances
+### Data Instances
 
 ```
 {
@@ -110,7 +110,7 @@ The questions and answers are available in English.
     "choice_type":"single"
 }
 ```
-## Data Fields
+### Data Fields
 
 - `id` : a string question identifier for each example
 - `question` : question text (a string)
@@ -124,7 +124,7 @@ The questions and answers are available in English.
 - `subject_name` : Medical Subject name of the particular question
 - `topic_name` : Medical topic name from the particular subject
 
-## Data Splits
+### Data Splits
 
 The goal of MedMCQA is to emulate the rigor of real word medical exams. To enable that, a predefined split of the dataset is provided. The split is by exams instead of the given questions. This also ensures the reusability and generalization ability of the models. 
 
