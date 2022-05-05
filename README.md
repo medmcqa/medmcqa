@@ -86,7 +86,7 @@ The dataset contains questions about the following topics:
 
 download the data from below link
 
-data : https://drive.google.com/uc?export=download&confirm=t&id=1MtcH29lUnaPehvUi2tZ9KEdgZy-NgOH2
+data : https://drive.google.com/uc?export=download&id=15VkJdq5eyWIkfb_aoD3oS8i4tScbHYky
 
 ## Experiments code
 
