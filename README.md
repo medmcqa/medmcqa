@@ -173,5 +173,5 @@ Example :
 | bb85e248-b2e9-48e8-a887-67c1aff15b6d |  3  | 
 
 
-Google form for model submission : https://forms.gle/xLJHNbuvaRa2FXbD8
-For any issue or query           : medmcqa [at] gmail.com
+- Google form for model submission : https://forms.gle/xLJHNbuvaRa2FXbD8
+- For any issue or query           : medmcqa [at] gmail.com
