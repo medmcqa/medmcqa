@@ -174,3 +174,4 @@ Example :
 
 
 Google form for model submission : https://forms.gle/xLJHNbuvaRa2FXbD8
+For any issue or query           : medmcqa [at] gmail.com
