@@ -163,7 +163,7 @@ Similar questions from train , test and dev set were removed based on similarity
 ## Model Submission and Test Set Evaluation
 
 To preserve the integrity of test results, we do not release the test set's ground-truth to the public. Instead, we require you to
-use the test-set to evaluate the model and send the predictions along with unique question id `id` in csv format to below email addresses
+use the test-set to evaluate the model and send the predictions along with unique question id `id` in csv format to below google form (Fill the google form and upload the files there)
 
 Example :
 
@@ -172,5 +172,5 @@ Example :
 | 84f328d3-fca4-422d-8fb2-19d55eb31503 |  2  | 
 | bb85e248-b2e9-48e8-a887-67c1aff15b6d |  3  | 
 
-aadityaura [at] gmail.com,
-logesh.umapathi [at] saama.com
+
+Google form for model submission : https://forms.gle/xLJHNbuvaRa2FXbD8
