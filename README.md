@@ -178,6 +178,7 @@ Example :
 1) Make sure your file format is `.csv`
 2) Please check your predictions; the answer index starts with 1, not with 0; all correct options should be in the range of `[ 1, 2, 3, 4 ]`
 3) We accept submissions only via the below google form.
+4) Make sure there are only two columns named `id`  and `Prediction (correct option).`
 
 ### Submission Resources
 
