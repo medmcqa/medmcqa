@@ -30,7 +30,7 @@ If you would like to use the data or code, please cite the paper:
 }
 ```
 
-[![GitHub license](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub commit](https://img.shields.io/github/last-commit/medmcqa/medmcqa)](https://github.com/medmcqa/medmcqa/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
